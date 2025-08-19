@@ -71,11 +71,3 @@
 </div>
 
 ---
-
-<!-- Contato -->
-### 📫 Onde me encontrar
-- 💼 [LinkedIn](https://linkedin.com) _(adicione seu perfil aqui)_
-- 📧 Email: **seuemail@gmail.com**
-- 📝 Confira meus projetos no [GitHub](https://github.com/GustavoAsafe)
-
----
