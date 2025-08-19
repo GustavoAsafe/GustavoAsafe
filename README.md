@@ -64,10 +64,16 @@
 
 ---
 
+### Meus Projetos
+| Nome | O que faz |
+|------|-----------|
+| **Bancoapp** | Sistema bancário em Java com criação de conta, depósito e saque. |
+| **SistemaCadastro** | Aplicativo simples em Java que valida email e armazena usuários. |
+
+---
+
 <!-- Troféus -->
 ### 🏆 Conquistas
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoAsafe&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </div>
-
----
